@@ -3,8 +3,7 @@
 
 <b>Ans -</b> We should always ask questions by mailing in the team and not by asking private mail to anyone because the team can give us more good suggestions.
 
-
-
+<br><br>
 
 
 
@@ -15,7 +14,7 @@
 
 <b>Ans -</b> We should always put a subject in the mail so that our team understands its meaning and it is easy to reply to them.
 
-
+<br><br>
 
 
 
@@ -26,6 +25,7 @@
 <b>Ans -</b> We should always have complete information about our questions whether the question is correct or not
 
 
+<br><br>
 
 
 
